@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeremy Thompson!
-- 🎒 I'm a sophomore at Geneva College in Beaver Falls.
+- 🎒 I'm a junior at Geneva College.
 - 👀 I’m interested in sports, books, puzzles, psychology, and most importantly, data analysis!
 - 🌱 I’m currently learning how to execute a full data analysis project.
 - 🔗 LinkedIn --> www.linkedin.com/in/jeremy-thompson33
